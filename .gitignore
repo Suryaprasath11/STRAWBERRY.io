@@ -1,0 +1,7 @@
+#Venv
+
+venv/
+
+#virtual Enviromrnt
+
+.env
