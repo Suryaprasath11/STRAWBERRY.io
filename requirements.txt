@@ -1,5 +1,5 @@
 anyio
-certif
+certifi
 ffmpeg
 h11
 httpcore
@@ -7,6 +7,5 @@ httpx
 idna
 python-dotenv
 python-telegram-bot
-requests
 telegram
 yt-dlp
